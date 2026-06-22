@@ -11,3 +11,6 @@ wheels/
 
 # Local secrets and environment overrides
 .env
+
+uv.lock
+.python-version
